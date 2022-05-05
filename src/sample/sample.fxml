@@ -17,11 +17,6 @@
     <padding>
         <Insets bottom="5" left="5" right="5" top="5"/>
     </padding>
-    <!--    <MenuBar>-->
-    <!--        <Menu text = "File">-->
-    <!--            <MenuItem text="Exit" onAction="#menuExit"/>-->
-    <!--        </Menu>-->
-    <!--    </MenuBar>-->
 
     <TextArea fx:id="messageArea" VBox.vgrow="ALWAYS" editable="false"/>
     <HBox spacing="5">
